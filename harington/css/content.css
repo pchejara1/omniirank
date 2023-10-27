@@ -18,6 +18,9 @@
 		position:relative;
 		z-index:20;
 		overflow:hidden;
+		
+	}
+	.hero-head{
 		background: purple;
 	}
 	
@@ -179,10 +182,12 @@
 		vertical-align: top;
 		width:auto;
 		padding: 0;
-		color: #FFF;;
+		color: #FFF;
 		/* color:#222;		 */
 	}
-	
+	.hero-title.about {
+		color:#222;		
+	}
 	.uppercase-text .hero-title {
 		font-size:9vw;
 		line-height:9vw;
