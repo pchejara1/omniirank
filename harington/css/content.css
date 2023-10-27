@@ -18,6 +18,7 @@
 		position:relative;
 		z-index:20;
 		overflow:hidden;
+		background: purple;
 	}
 	
 	#hero.has-image {
@@ -178,7 +179,8 @@
 		vertical-align: top;
 		width:auto;
 		padding: 0;
-		color:#222;		
+		color: #FFF;;
+		/* color:#222;		 */
 	}
 	
 	.uppercase-text .hero-title {
@@ -261,7 +263,8 @@
 		display:block;
 		overflow:hidden;
 		margin-left: 0px;
-		color:#222;		
+		color: #fff;
+		/* color:#222;		 */
 	}
 	
 	.indent-title .hero-subtitle {
